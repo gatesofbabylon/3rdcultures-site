@@ -11,7 +11,7 @@ tags:
 title: Has Design Thinking gone “wrong”?
 ---
 
-Has the lustre come off Design Thinking, the current “golden child” of innovation and transformation? The MIT technology review considers the prospect in a good piece: <https://www.technologyreview.com/2023/02/09/1067821/design-thinking-retrospective-what-went-wrong/>
+Has the lustre come off Design Thinking, the current “golden child” of innovation and transformation? The MIT technology review considers the prospect in a [good piece](https://www.technologyreview.com/2023/02/09/1067821/design-thinking-retrospective-what-went-wrong/).
 
 The headline is a little alarmist, but reading the whole piece, the takeaway is fairly clear.
 
