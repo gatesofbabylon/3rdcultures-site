@@ -1,0 +1,23 @@
+---
+import { render } from "astro:content";
+import type { GetStaticPaths, InferGetStaticPropsType } from "astro";
+import { getAllFilms } from "@/data/film";
+import FilmPost from "@/layouts/FilmPost.astro";
+
+export const getStaticPaths = (async () => {
+	const films = await getAllFilms();
+	return films.map((film) => ({
+		params: { slug: film.id },
+		props: { film },
+	}));
+}) satisfies GetStaticPaths;
+
+type Props = InferGetStaticPropsType<typeof getStaticPaths>;
+
+const { film } = Astro.props;
+const { Content } = await render(film);
+---
+
+<FilmPost film={film}>
+	<Content />
+</FilmPost>

@@ -1,0 +1,82 @@
+---
+import type { CollectionEntry } from "astro:content";
+import type { GetStaticPaths, Page } from "astro";
+import Pagination from "@/components/Paginator.astro";
+import { getAllFilms, groupFilmsByYear } from "@/data/film";
+import PageLayout from "@/layouts/Base.astro";
+import { collectionDateSort } from "@/utils/date";
+
+export const getStaticPaths = (async ({ paginate }) => {
+	const MAX_FILMS_PER_PAGE = 10;
+	const allFilms = await getAllFilms();
+	const allFilmsByDate = allFilms.sort(collectionDateSort);
+	return paginate(allFilmsByDate, {
+		pageSize: MAX_FILMS_PER_PAGE,
+	});
+}) satisfies GetStaticPaths;
+
+interface Props {
+	page: Page<CollectionEntry<"film">>;
+}
+
+const { page } = Astro.props;
+
+const meta = {
+	description: "Film reviews",
+	title: "Films",
+};
+
+const paginationProps = {
+	...(page.url.prev && {
+		prevUrl: {
+			text: "← Previous Page",
+			url: page.url.prev,
+		},
+	}),
+	...(page.url.next && {
+		nextUrl: {
+			text: "Next Page →",
+			url: page.url.next,
+		},
+	}),
+};
+
+const groupedByYear = groupFilmsByYear(page.data);
+const descYearKeys = Object.keys(groupedByYear).sort((a, b) => +b - +a);
+---
+
+<PageLayout meta={meta}>
+	<h1 class="title mb-12">Films</h1>
+	<div>
+		{
+			descYearKeys.map((yearKey) => (
+				<section class="mb-16">
+					<h2 id={`year-${yearKey}`} class="title text-lg">
+						<span class="sr-only">Films in</span>
+						{yearKey}
+					</h2>
+					<ul class="mt-5 space-y-4 text-start">
+						{groupedByYear[yearKey]?.map((film) => (
+							<li class="grid gap-1 sm:grid-cols-[auto_1fr]">
+								<span class="text-muted min-w-30 font-semibold">
+									{film.data.publishDate.toLocaleDateString("en-GB", {
+										day: "numeric",
+										month: "short",
+										year: "numeric",
+									})}
+								</span>
+								<div>
+									{film.data.draft && <span class="text-red-500">(Draft) </span>}
+									<a class="cactus-link" href={`${import.meta.env.BASE_URL}/films/${film.id}/`}>
+										{film.data.title}
+									</a>
+								</div>
+							</li>
+						))}
+					</ul>
+				</section>
+			))
+		}
+		<Pagination {...paginationProps} />
+	</div>
+</PageLayout>

@@ -2,18 +2,18 @@
 import { getEntry, render } from "astro:content";
 import PageLayout from "@/layouts/Base.astro";
 
-const pageEntry = await getEntry("page", "about");
-if (!pageEntry) throw new Error("About page content not found in src/content/page/about.md");
+const pageEntry = await getEntry("page", "cv");
+if (!pageEntry) throw new Error("CV page content not found in src/content/page/cv.md");
 const { Content } = await render(pageEntry);
 
 const meta = {
-	description: pageEntry.data.description ?? "About Phil Pearson",
-	title: "About",
+	description: pageEntry.data.description ?? "Phil Pearson — CV / resumé",
+	title: "CV",
 };
 ---
 
 <PageLayout meta={meta}>
-	<h1 class="title mb-12">About</h1>
+	<h1 class="title mb-12">CV</h1>
 	<div class="prose prose-sm prose-cactus max-w-none">
 		<Content />
 	</div>
