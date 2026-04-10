@@ -1,7 +1,6 @@
 ---
 import { type CollectionEntry, getEntry, render } from "astro:content";
 import PostPreview from "@/components/blog/PostPreview.astro";
-import SocialList from "@/components/SocialList.astro";
 import { getAllPosts } from "@/data/post";
 import PageLayout from "@/layouts/Base.astro";
 import { collectionDateSort } from "@/utils/date";
@@ -29,7 +28,6 @@ const HomeContent = homeContent?.Content;
 <PageLayout meta={{ title: "Home" }}>
 	<section>
 		{HomeContent ? <div class="prose prose-sm prose-cactus max-w-none mb-6"><HomeContent /></div> : null}
-		<SocialList />
 	</section>
 	{
 		pinnedPosts.length > 0 && (

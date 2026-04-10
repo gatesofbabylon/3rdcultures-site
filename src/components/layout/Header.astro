@@ -5,19 +5,14 @@ import { menuLinks } from "@/site.config";
 import { siteConfig } from "../../site.config";
 ---
 
-<header class="group relative mb-28 flex items-center sm:ps-18" id="main-header">
+<header class="group relative mb-28 flex items-center" id="main-header">
 	<div class="flex sm:flex-col">
 		<a
 			aria-current={Astro.url.pathname === import.meta.env.BASE_URL ? "page" : false}
-			class="inline-flex items-center sm:relative sm:inline-block sm:grayscale sm:hover:filter-none"
+			class="inline-flex items-center"
 			href={import.meta.env.BASE_URL}
 		>
-			<img
-				alt="3rd cultures logo"
-				class="me-3 h-10 w-10 sm:absolute sm:-start-18 sm:me-0 sm:h-16 sm:w-16"
-				src={`${import.meta.env.BASE_URL.replace(/\/?$/, "/")}logo.png`}
-			/>
-			<span class="text-xl font-bold sm:text-2xl">{siteConfig.title}</span>
+			<span class="text-2xl font-bold sm:text-3xl">{siteConfig.title}</span>
 		</a>
 		<nav
 			aria-label="Main menu"

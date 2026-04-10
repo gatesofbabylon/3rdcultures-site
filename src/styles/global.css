@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@300..800&display=swap");
 /* tailwind to ignore satori generated og-image */
 @source not "../pages/og-image";
 /* config for tailwindcss-typography plugin */
@@ -32,7 +32,7 @@
 @property --color-accent {
 	syntax: "<color>";
 	inherits: true;
-	initial-value: oklch(55.27% 0.195 19.06);
+	initial-value: oklch(62% 0.155 49.43);
 }
 @property --color-accent-2 {
 	syntax: "<color>";
@@ -42,23 +42,24 @@
 @property --color-quote {
 	syntax: "<color>";
 	inherits: true;
-	initial-value: oklch(55.27% 0.195 19.06);
+	initial-value: oklch(62% 0.155 49.43);
 }
 
 /* you could refactor below to use light-dark(), depending on your target audience */
 @theme {
-	--font-sans: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+	--font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;
 	--color-global-bg: oklch(98.48% 0 0);
 	--color-global-text: oklch(26.99% 0.0096 235.05);
 	--color-muted: oklch(44.6% 0.03 256.802);
 	--color-link: oklch(55.44% 0.0431 185.69);
-	--color-accent: oklch(55.27% 0.195 19.06);
+	--color-accent: oklch(62% 0.155 49.43);
 	--color-accent-2: oklch(18.15% 0 0);
-	--color-quote: oklch(55.27% 0.195 19.06);
+	--color-quote: oklch(62% 0.155 49.43);
 }
 
 @layer base {
 	html {
+		font-size: 20px;
 		color-scheme: light dark;
 		accent-color: var(--color-accent);
 		scrollbar-gutter: stable;
@@ -73,9 +74,9 @@
 			--color-global-text: oklch(83.54% 0 264);
 			--color-muted: oklch(70.7% 0.022 261.325);
 			--color-link: oklch(70.44% 0.1133 349);
-			--color-accent: oklch(70.91% 0.1415 163.7);
+			--color-accent: oklch(76% 0.155 49.43);
 			--color-accent-2: oklch(94.66% 0 0);
-			--color-quote: oklch(94.8% 0.106 136.49);
+			--color-quote: oklch(76% 0.155 49.43);
 		}
 
 		--color-mode-transition-duration: 300ms;
