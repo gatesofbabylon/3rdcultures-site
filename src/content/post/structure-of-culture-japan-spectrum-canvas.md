@@ -25,7 +25,7 @@ However, in Japan, culture is a canvas: compartmentalised, atomised, and – fo
 
 ![](/images/posts/structure-of-culture-japan-spectrum-canvas/Culture+as+canvas.png)
 
-This compartmentalisation has significant implications for the way people consume and appreciate different forms of culture. Ya mon.
+This compartmentalisation has significant implications for the way people consume and appreciate different forms of culture.
 
 ---
 
