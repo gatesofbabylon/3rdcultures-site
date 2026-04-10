@@ -4,12 +4,11 @@ import type { GetStaticPaths, Page } from "astro";
 import Pagination from "@/components/Paginator.astro";
 import { getAllFilms, groupFilmsByYear } from "@/data/film";
 import PageLayout from "@/layouts/Base.astro";
-import { collectionDateSort } from "@/utils/date";
 
 export const getStaticPaths = (async ({ paginate }) => {
 	const MAX_FILMS_PER_PAGE = 10;
 	const allFilms = await getAllFilms();
-	const allFilmsByDate = allFilms.sort(collectionDateSort);
+	const allFilmsByDate = allFilms.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
 	return paginate(allFilmsByDate, {
 		pageSize: MAX_FILMS_PER_PAGE,
 	});
