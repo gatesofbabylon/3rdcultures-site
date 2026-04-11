@@ -73,11 +73,11 @@ When a team is left to work on their own, they may provide a solution that has s
 
 Using the double diamond as an analogy, the solution presented may have some holes in it, as shown below:
 
-![](/images/posts/chatgpt-uses/Double+Diamonds+%E2%80%93+gaps.png)
+![](/images/posts/chatgpt-uses/Double+Diamonds+-+gaps.png)
 
 What can ChatGPT provide? At this stage, ChatGPT can provide a solution that looks like the following, without any specific domain-based knowledge or expertise applied:
 
-![](/images/posts/chatgpt-uses/Double+Diamonds+%E2%80%93+consensus.png)
+![](/images/posts/chatgpt-uses/Double+Diamonds+-+consensus.png)
 
 The output from ChatGPT is unremarkable – lacking inspiration or uniqueness. It represents a consensus, but is still not good enough to meet the client's needs.
 
@@ -85,7 +85,7 @@ The visualisation is further instructive in interrogating the logic of the “pr
 
 What it is good for is understanding how people who have thought about this general area have talked about it. It’s a good way to gauge consensus, and to round out the arguments and (as an outsider – I’m not a designer or technologist) round out the thinking before it gets presented to client as a deliverable. Visually, that might look like the following:
 
-![](/images/posts/chatgpt-uses/Double+Diamonds+%E2%80%93+combination.png)
+![](/images/posts/chatgpt-uses/Double+Diamonds+-+combination.png)
 
 It’s a good way to get to the questions of:
 

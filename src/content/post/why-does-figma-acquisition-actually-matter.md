@@ -59,11 +59,11 @@ Let’s start with an exploration of the existing paradigm, where Adobe is king.
 
 There are broadly two categories of people who are involved in delivering marketing and digital materials to consumers – the Designers / Creatives, and Tech / Business people (let’s call the latter Operational folk). They each have their own tools that they use, and all of those tool categories with leading, or contending, products from within the Adobe suite (see “Teams & Tools”)
 
-![](/images/posts/why-does-figma-acquisition-actually-matter/Teams+%26+Tools.png)
+![](/images/posts/why-does-figma-acquisition-actually-matter/Teams+and+Tools.png)
 
 The way that these tools are organised is into Adobe’s “Clouds” – the Creative Cloud, the Experience Cloud, Advertising Cloud (see image “Creative Activities & Operational Activities”)
 
-![](/images/posts/why-does-figma-acquisition-actually-matter/Creative+%26+Operational+Activities.png)
+![](/images/posts/why-does-figma-acquisition-actually-matter/Creative+and+Operational+Activities.png)
 
 The operational people (the blue folk) live in Experience Cloud and Advertising cloud – the creatives will tut tut that they don’t actually care about “the craft” and are only chasing numbers:
 
@@ -118,7 +118,7 @@ You need a higher organisational metabolic rate.
 
 What happens when you start using a tool like Figma is, you go from this…
 
-![](/images/posts/why-does-figma-acquisition-actually-matter/Creative+%26+Operational+Activities.png)
+![](/images/posts/why-does-figma-acquisition-actually-matter/Creative+and+Operational+Activities.png)
 
 … to this …
 

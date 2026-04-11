@@ -10,7 +10,7 @@ tags: []
 title: Love & Logistics – on Michael Mann’s Miami Vice (2006)
 ---
 
-![](/images/films/love-amp-logistics-on-michael-manns-miami-vice-2006/Love+and+Logistics+on+Michael+Mann%27s+Miami+Vice+%282006%29+2.gif)
+![](/images/films/love-amp-logistics-on-michael-manns-miami-vice-2006/Love+and+Logistics+Miami+Vice+2006.gif)
 
 Black SUVs pass through polystyrene blocks
 
