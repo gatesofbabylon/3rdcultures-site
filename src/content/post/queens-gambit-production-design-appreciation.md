@@ -24,7 +24,7 @@ Much has been written about Netflix’s The Queen’s Gambit, by people who are 
 
 ![Screen Shot 2020-11-10 at 18.25.32.jpeg](/images/posts/queens-gambit-production-design-appreciation/Screen+Shot+2020-11-10+at+18.25.32.jpeg)
 
-![Screen+Shot+2020-11-10+at+18.30.42.jpg](/images/posts/queens-gambit-production-design-appreciation/Screen%2BShot%2B2020-11-10%2Bat%2B18.30.42.jpg)
+![Screen Shot 2020-11-10 at 18.30.42](/images/posts/queens-gambit-production-design-appreciation/Screen+Shot+2020-11-10+at+18.30.42.jpg)
 
 ## Las Vegas, Nevada
 

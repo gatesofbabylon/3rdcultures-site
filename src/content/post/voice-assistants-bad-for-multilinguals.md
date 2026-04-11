@@ -20,7 +20,7 @@ We’re in the car on a lazy Sunday, driving through the Yokohama suburbs on a l
 
 Fig. 1 - A hardware store ホームセンター
 
-What we want is a ホームセンター (a “home centre,” a Japanese neologism that describes something much like a B&Q in the UK, a large warehouse-style hardware store – see fig. 1). We want to see options and prices for bricks, 2x4 wood, MDF, and some tools for our [mountain shed](/blog/20200621-just-bought-izu-kiln-cabin).
+What we want is a ホームセンター (a “home centre,” a Japanese neologism that describes something much like a B&Q in the UK, a large warehouse-style hardware store – see fig. 1). We want to see options and prices for bricks, 2x4 wood, MDF, and some tools for our [mountain shed](/posts/just-bought-izu-kiln-cabin/).
 
 ![](/images/posts/voice-assistants-bad-for-multilinguals/small+hardware+store.webp)
 

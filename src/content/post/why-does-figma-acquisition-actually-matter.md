@@ -35,7 +35,7 @@ title: Why does the Figma acquisition *actually* matter?
 
 Wall Street [is confused](https://www.fool.com/investing/2022/09/21/wall-street-hates-adobes-figma-acquisition-what-if/)..
 
-![](/images/posts/why-does-figma-acquisition-actually-matter/fool.com+on+Figma+acquisition+by+Adobe)
+![](/images/posts/why-does-figma-acquisition-actually-matter/fool.com+on+Figma+acquisition+by+Adobe.webp)
 
 ---
 
