@@ -20,12 +20,8 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time";
 import { expressiveCodeOptions, siteConfig } from "./src/site.config";
 
 // https://astro.build/config
-// Remove `base` when custom domain is active (Phase 8 DNS cutover)
-const base = process.env.DEPLOY_BASE ?? "";
-
 export default defineConfig({
 	site: siteConfig.url,
-	base,
 	image: {
 		domains: ["webmention.io"],
 	},
