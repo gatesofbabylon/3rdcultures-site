@@ -5,58 +5,64 @@ title: CV
 
 ## statement
 
-Hybrid talent melding strong commercial sensibility with first-hand subject matter expertise across marketing & business transformation.  
-  
-Experienced in both Consultancy and Marketing Agency.  
-  
-Work spans strategy, creative, business strategy, digital, martech, UX, EX, lead generation and sales funnel, LTV management, CRM, data, optimisation, service design.
+Hybrid talent with strong commercial sensibility and first-hand expertise across CX, communications and business transformation. Experienced across marketing agencies and consulting firms — work spans client leadership, experience strategy, creative, campaign & always-on communications, digital, martech, UX/CX, service design, and data & optimisation.
 
 ---
 
 ## work history
 
-#### 2021/05 – now group account director @ mrm
+#### 2025/08 – now senior account director @ akqa
 
-Joined to lead the digital team servicing **BMW** account, was promoted within 6 months to lead the team overall. The whole onshore-offshore team (Team Dynamic) of 100+ fulfils a broad scope: brand strategy, campaigns, production, digital UX/UI, martech development, martech adoption, reporting & insights, optimisation, across a wide cross-agency team at Interpublic Group (IPG). Achievements:
+Leading client relationships across CX and Comms scopes in Japan.
 
-* **Finance** – lead the deliverables recognition and finance process for an account in the high 7 figures annually
-* **Partnership** – responsible at the top level for partnership with media agency fellow IPG agency UM, as well as retail marketing agency Hakuhodo
-* **Alignment** – proposing and driving new management and alignment cadences between client and agency, and across the agency landscape, to improve service quality across the board, through cross-agency collaboration more aligned to actual client business challenges and uncovering efficiencies
-* **Martech / AdTech** – working with team to drive proposals and recommendations adopted by client on Adobe Marketing Cloud applications (Adobe Campaign, Adobe Audience Manager, Adobe Target) for owned media, and in combination with DSP, adserver applications on the paid media side
-* **Ways of working** – introducing and driving adoption of modern project management practices and tooling (Smartsheet) among the account team, ensuring visibility of project progress, single source of truth for structured project data from brief through rounds of proposal and feedback, and enabling more standardised / transferable process insights
-* **Collaboration** – spearheaded the creation of a collaboration playbook to define the SLAs across each party in the client-agency landscape, and continuously document the agreed collaboration rules and emergent best-practices, with a particular mandate to reduce communication friction in distributed pandemic-era work
+Clients: **JAL, Airbnb, JR East**
+
+#### 2024/05 – 2025/08 senior principal, cx @ slalom consulting
+
+Leading consulting proposals & engagements — delivering user insights, business cases & experience strategies across loyalty & CRM programs, internal AI applications, and new business innovation pipelines.
+
+Scope: user research, experience strategy, service strategy & blueprinting, business case creation, business strategy, innovation consulting.
+
+Clients: **JR West, Kyodo News, Softbank Group**
+
+#### 2021/05 – 2024/05 group account director / consulting director @ mrm
+
+Joined to lead the digital team for BMW; promoted within 6 months to account lead for the full 8-figure USD (in agency fees) IPG engagement, heading a 100+ team. Subsequently led the Consulting division.
+
+* **BMW** – scope across brand creative, digital UX/UI, martech (Adobe stack), performance reporting, and cross-agency alignment across UM and Hakuhodo
+* **Amazon, Nike, Hugo Boss** – led Japan Consulting division engagements as head of MRM's consulting practice
 
 #### 2018/07 – 2021/05 account director @ publicis sapient
 
-As primary Client Partner in Japan, I lead world-class interdisciplinary (Design, Technology, Delivery) teams for my clients’ digital business transformations (DBT). Achievements:
+As primary Client Partner in Japan, led interdisciplinary (Design, Technology, Business Strategy) teams for clients' digital business transformations. Won multiple 7-figure USD programs from strategy through execution.
 
-* **Japan Airlines** – led (5-way) competitive pitch to success & subsequently delivered 7-figures USD of programs delivering digital product across 6 programs in 12 months, incorporating Experience Design, Web Design, Platform Technology (AEM) Development & Implementation, Specialised Solutions, Experience / Tech / Capability Roadmapping.
-* **Rakuten Mobile** – led (4-way) competitive pitch to success & subsequently delivered 7-figures USD of programs re-imagining Rakuten Mobile’s CX, designing a modular Retail Experience System, Store Technology Consultation, Employee Experience & other design projects.
-* **Marui EPOS** – built a relationship from the ground up. Our program includes spatial retail design, employee experience, prototype store build, digital touchpoint design, AI-based test result analytics, service blueprint, and migration roadmap.
+* **Japan Airlines** – won 5-way competitive pitch; delivered 7-figure USD program across 6 workstreams in 12 months: Experience Design, Web, AEM Platform, Capability Roadmapping.
+* **Rakuten Mobile** – won 4-way competitive pitch; delivered 7-figure USD CX program: modular Retail Experience System, Store Technology, Employee Experience design.
+* **Marui EPOS** – built relationship from scratch; program spanned spatial retail design, prototype store build, digital touchpoints, AI analytics, service blueprint and migration roadmap.
 
-#### 2015/05 – 2018/07 account manager @ dentsu isobar
+#### 2015/05 – 2018/07 account manager, global accounts @ dentsu isobar
 
-Client management for digital marketing (community mgmt, promotions, campaigns, websites) planning, production, tech implementation & activations (event). Achievements:
+Led digital marketing for global blue-chip clients across luxury fashion, airline, tourism, insurance & banking.
 
-* **adidas Originals** – led team of creatives & delivery to plan & execute a one-night only product activation event at a Tokyo boutique hotel to launch an adidas Originals sneaker, with c100 celebrity guests. Deployed external spatial design & event staffing / ops capabilities.
-* **COACH Japan** – managed a multi-year relationship including LINE platform community management and LINE Business Connect API-integrated first-party technology enablement.
-* **Air France–KLM** – led a successful (3-way) competitive pitch for the design & technology implementation of a CRM / personalisation / customer service platform based in LINE.
+* **adidas Originals** – planned & executed a one-night Tokyo boutique hotel product launch event for ~100 celebrity guests.
+* **COACH Japan** – multi-year relationship: LINE community management and LINE Business Connect API-integrated first-party CRM.
+* **Air France–KLM** – won 3-way competitive pitch; designed & implemented a LINE-based CRM / personalisation / customer service platform.
 
-#### 2013/12 – 2015/03 account manager @ havas media international
+#### 2013/12 – 2015/03 international account manager @ havas media
 
-Media planning and buying for clients including **Credit Suisse**, **Bench**, **AXA Insurance**. Trained and mentored direct reports in media planning, buying, media reporting.
+Media planning and buying for branding & DR campaigns with 8-figure USD budgets. Clients: **Credit Suisse, Bench, AXA Insurance**.
 
 #### 2011/02 – 2013/11 account executive @ ptarmigan media
 
-Media planning and buying for top-tier financial services clients including **Aberdeen Asset Management**, **Standard Life Investments**, **Russell Indexes**, **GFT**, **CMC Markets**.
+Media planning, buying and performance reporting across print, TV, radio, digital display & search. Clients: **Standard Life Investments, Aberdeen Asset Management, Russell Indexes**.
 
-#### 2010/03 – 2011/01 advertising manager @ verican
+#### 2010/03 – 2011/01 cms services sales @ verican
 
-Sold CMS (mainly Joomla, Drupal) development services to media companies globally.
+Sold CMS (Joomla, Drupal) development services to media companies globally.
 
-#### 2008/09 – 2010/03 analyst @ npea capital
+#### 2008/09 – 2010/03 analyst @ natixis private equity asia (npea) capital
 
-Financial analysis of potential investment targets, producing reports for investment committee. Due diligence on private companies. CN-EN and EN-CN translation.
+Financial due diligence on private companies; research and reports for investment committee. CN-EN and EN-CN translation.
 
 ---
 
@@ -65,59 +71,42 @@ Financial analysis of potential investment targets, producing reports for invest
 * Japanese – native
 * English – native
 * Mandarin Chinese – fluent
-* French – conversational
-* Spanish – conversational
+* French – basic
+* Spanish – basic
 * Italian – basic
 * Cantonese – basic
 
 ---
 
-## professional skills
+## skills
 
-### consulting
+engagement leadership | experience strategy | service strategy & blueprinting | user research | workshop facilitation | business case creation | technology use-case definition & prioritisation
 
-* Business case creation
+### martech / cx / ai stack
 
-* Evaluations of technologies and architectures and pros/cons and trade-offs
-* Educating organisations in modern business practises (design thinking, agile & product management)
-
-### client handling
-
-* Opportunity shaping
-* Proposal creation
-* Contracts (drafting, but working with lawyer / legal counsel to finalise)
-* Negotiation
-* Commercial awareness
-* Stakeholder mapping
-* Empathy and interest mapping
-
-### product & program management
-
-* Translating user stories into product features
-* Prioritisation of features by business & consumer value
-* Project managing proposals (within an engagement, program delivery is conducted by dedicated program management, but I manage pitches and proposals within the sales cycle)
-
-### martech / cx stack experience
-
-* Adobe Analytics
+* Adobe Analytics & Launch
 * Adobe Audience Manager
-* Adobe Campaign
+* Adobe Campaign & Target
 * Adobe Experience Manager
-* Adobe Launch
-* Adobe Target
-* Datorama
-* Google Analytics
-* Google Tag Manager
+* Anthropic Claude API
+* AWS Bedrock
+* Datorama & Tableau
+* Google Analytics & Tag Manager
 * Google Campaign Manager 360
+* LINE Business Connect
+* Microsoft Dynamics
+* OpenAI API
 * Salesforce Commerce Cloud
 * Salesforce Marketing Cloud (Pardot, Interaction Studio)
-* Tableau
+* Shopify Plus
+* Snowflake
 
 ---
 
-## certification
+## certifications
 
-* Scaled Agile: Certified SAFe® 5 Agilist (attained Sep 2020)
+* ICAgile: Agile Fundamentals
+* Scaled Agile: Certified SAFe® 5 Agilist (Sep 2020)
 
 ---
 
@@ -125,6 +114,4 @@ Financial analysis of potential investment targets, producing reports for invest
 
 #### 2004/09 – 2008/06 chinese studies m.a. (hons) @ the university of edinburgh
 
-Attained First Class honours in Chinese studies. Also included 1year of Chinese study in China at the Dalian University of Technology’s (DUT) International Cultural Exchange School.
-
-While studying in China, attained Level 9 (advanced level) on the Chinese Proficiency Test.
+Attained First Class honours. Included one year of study at Dalian University of Technology (DUT), China. Attained Level 9 (advanced) on the Chinese Proficiency Test (HSK).
