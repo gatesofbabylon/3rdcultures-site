@@ -39,9 +39,6 @@ jobs:
 
       - name: Build
         run: pnpm build
-        env:
-          # Subpath for GitHub Pages project site — remove at DNS cutover (Phase 8)
-          DEPLOY_BASE: /3rdcultures-site
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
