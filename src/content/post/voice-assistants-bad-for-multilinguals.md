@@ -10,19 +10,19 @@ tags:
 title: Why are voice assistants still bad for multilingual users?
 ---
 
-![](/images/posts/voice-assistants-bad-for-multilinguals/AI+speaker)
+![](/images/posts/voice-assistants-bad-for-multilinguals/AI+speaker.webp)
 
 ## Or: how Google only fulfils half of its mission.
 
 We’re in the car on a lazy Sunday, driving through the Yokohama suburbs on a little outing. The kids are asleep. The dashboard monitor — set to Google Maps on my iPhone via CarPlay — says that it’s around 30 mins to home, but we think the kids will probably sleep for an hour more. Shall we kill some time at a hardware store? We’re doing a bit of DIY and want to estimate the cost of materials for a wooden deck.
 
-![](/images/posts/voice-assistants-bad-for-multilinguals/home+centre)
+![](/images/posts/voice-assistants-bad-for-multilinguals/home+centre.webp)
 
 Fig. 1 - A hardware store ホームセンター
 
 What we want is a ホームセンター (a “home centre,” a Japanese neologism that describes something much like a B&Q in the UK, a large warehouse-style hardware store – see fig. 1). We want to see options and prices for bricks, 2x4 wood, MDF, and some tools for our [mountain shed](/blog/20200621-just-bought-izu-kiln-cabin).
 
-![](/images/posts/voice-assistants-bad-for-multilinguals/small+hardware+store)
+![](/images/posts/voice-assistants-bad-for-multilinguals/small+hardware+store.webp)
 
 Fig. 2 - A hardware store 金物屋
 

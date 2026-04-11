@@ -11,7 +11,7 @@ tags: []
 title: Unexpectedly influential – on Richard C. Sarafian’s “Vanishing Point” (1971)
 ---
 
-![](/images/films/unexpectedly-influential-vanishing-point/vanishing-point-1971)
+![](/images/films/unexpectedly-influential-vanishing-point/vanishing-point-1971.gif)
 
 Car chases!!
 

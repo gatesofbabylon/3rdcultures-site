@@ -15,23 +15,23 @@ title: Aesthetic near-perfection – on Alan J. Pakula’s “The Parallax View�
 
 Sounding exactly like a conspiracy thriller released the same year as The Conversation should. The main theme is not quite as weird and colourful as that of Pakula’s “Klute” (1971), but is far more thematically resonant, straddling a line between its gestures toward a grandiosity that apes anthemhood in its form, while remaining totally inscrutable in its eventual effect. A chord progression that appears to build toward greatness but fails to resolve.
 
-![](/images/films/aesthetic-near-perfection-alan-j-pakula-parallax-view-1974/The+Parallax+View+1974+title+card)
+![](/images/films/aesthetic-near-perfection-alan-j-pakula-parallax-view-1974/The+Parallax+View+1974+title+card.webp)
 
 #### The architecture
 
-![](/images/films/aesthetic-near-perfection-alan-j-pakula-parallax-view-1974/The+Parallax+View+1974+walking+in+Seattle)
+![](/images/films/aesthetic-near-perfection-alan-j-pakula-parallax-view-1974/The+Parallax+View+1974+walking+in+Seattle.webp)
 
 Taking the kind of slinky mid-century office building that may have been the scene of a Don and Peggy brainstorm, or a workplace affair by Pete or Harry, and relocating it from the Manhattan megalopolis to the mid-sized cities of Denver & Seattle, leeching all the sex out of it, leaving only pure alienation.
 
-![](/images/films/aesthetic-near-perfection-alan-j-pakula-parallax-view-1974/The+Parallax+View+1974+Space+Needle+Seattle)
+![](/images/films/aesthetic-near-perfection-alan-j-pakula-parallax-view-1974/The+Parallax+View+1974+Space+Needle+Seattle.webp)
 
 #### The dark
 
-![](/images/films/aesthetic-near-perfection-alan-j-pakula-parallax-view-1974/The+Parallax+View+1974+shadows+unseen+from+below)
+![](/images/films/aesthetic-near-perfection-alan-j-pakula-parallax-view-1974/The+Parallax+View+1974+shadows+unseen+from+below.webp)
 
 Stifling in its intensity. In the shadows that are by definition unseen from below and unconsidered by the little people. In once-innocuous objects like hanging pendant lights, here shown striking down from those unseen shadows. In their violent intrusions into those same red white and blue human scenes, shot as if down the barrel of a vertical firing squad – an almost impossible, inhuman perspective that foreshadows both the crime and the cover-up to come.
 
-![](/images/films/aesthetic-near-perfection-alan-j-pakula-parallax-view-1974/The+Parallax+View+1974+looking+out+from+the+shadows)
+![](/images/films/aesthetic-near-perfection-alan-j-pakula-parallax-view-1974/The+Parallax+View+1974+looking+out+from+the+shadows.webp)
 
 #### The movement
 

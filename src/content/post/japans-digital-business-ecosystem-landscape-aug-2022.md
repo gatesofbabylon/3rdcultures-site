@@ -20,7 +20,7 @@ As comps, I included the big three mobile carriers (which are also very diversif
 
 Image below, click to zoom.
 
-[![](/images/posts/japans-digital-business-ecosystem-landscape-aug-2022/Japan%27s+digital+business+ecosystems+landscape+August+2022)](/s/Japans-digital-business-ecosystems-landscape-August-2022.jpg)
+[![](/images/posts/japans-digital-business-ecosystem-landscape-aug-2022/Japan%27s+digital+business+ecosystems+landscape+August+2022.webp)](/s/Japans-digital-business-ecosystems-landscape-August-2022.jpg)
 
 ## The takeaway
 

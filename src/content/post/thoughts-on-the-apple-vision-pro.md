@@ -33,7 +33,7 @@ While I haven’t used the Apple Vision Pro yet, I do have some initial thoughts
 
   + At the same time it does appear clear that “screen-mediated AR” is probably a better execution of AR than the approach that Microsoft Hololens is taking, to “light up” virtual components through a transparent display layer
 
-![](/images/posts/thoughts-on-the-apple-vision-pro/Microsoft+HoloLens+user+in+Minecraft)
+![](/images/posts/thoughts-on-the-apple-vision-pro/Microsoft+HoloLens+user+in+Minecraft.webp)
 
 ## On its applications
 

@@ -10,7 +10,7 @@ tags:
 title: Owning my domain
 ---
 
-![](/images/posts/owning-my-domain-again-3rdculturescom/Enoden+tram+near+my+house)
+![](/images/posts/owning-my-domain-again-3rdculturescom/Enoden+tram+near+my+house.webp)
 
 Enoden tram near my house.
 

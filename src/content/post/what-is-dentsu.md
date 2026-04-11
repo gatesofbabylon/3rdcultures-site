@@ -12,7 +12,7 @@ tags:
 title: What is Dentsu?
 ---
 
-![](/images/posts/what-is-dentsu/20150612-tange-dentsu-entrance-parking)
+![](/images/posts/what-is-dentsu/20150612-tange-dentsu-entrance-parking.webp)
 
 The entrance at the former Dentsu HQ building, designed by Kenzo Tange & completed in 1967
 
