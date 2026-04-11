@@ -1,9 +1,13 @@
 ---
+import ThemeToggle from "@/components/ThemeToggle.astro";
 import { siteConfig } from "@/site.config";
 
 const year = new Date().getFullYear();
 ---
 
 <footer class="text-muted mt-auto pt-28 pb-10 text-center text-sm font-semibold">
+	<div class="mb-4 flex justify-center">
+		<ThemeToggle />
+	</div>
 	&copy; {siteConfig.author} {year}. {siteConfig.title}
 </footer>

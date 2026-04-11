@@ -1,6 +1,5 @@
 ---
 import Search from "@/components/Search.astro";
-import ThemeToggle from "@/components/ThemeToggle.astro";
 import { menuLinks } from "@/site.config";
 import { siteConfig } from "../../site.config";
 ---
@@ -12,7 +11,7 @@ import { siteConfig } from "../../site.config";
 			class="inline-flex items-center"
 			href={import.meta.env.BASE_URL}
 		>
-			<span class="font-heading text-2xl sm:text-3xl">{siteConfig.title}</span>
+			<span class="font-heading text-4xl sm:text-5xl">{siteConfig.title}</span>
 		</a>
 		<nav
 			aria-label="Main menu"
@@ -33,12 +32,11 @@ import { siteConfig } from "../../site.config";
 		</nav>
 	</div>
 	<Search />
-	<ThemeToggle />
 	<mobile-button>
 		<button
 			aria-expanded="false"
 			aria-haspopup="menu"
-			class="group relative ms-4 h-7 w-7 sm:invisible sm:hidden"
+			class="group relative ms-2 h-5 w-5 sm:invisible sm:hidden"
 			id="toggle-navigation-menu"
 			type="button"
 		>
@@ -54,7 +52,7 @@ import { siteConfig } from "../../site.config";
 				viewBox="0 0 24 24"
 				xmlns="http://www.w3.org/2000/svg"
 			>
-				<path d="M3.75 9h16.5m-16.5 6.75h16.5" stroke-linecap="round" stroke-linejoin="round"
+				<path d="M3.75 6.75h16.5m-16.5 5.25h16.5m-16.5 5.25h16.5" stroke-linecap="round" stroke-linejoin="round"
 				></path>
 			</svg>
 			<svg
