@@ -1,9 +1,11 @@
 ---
-import { type CollectionEntry, render } from "astro:content";
+import { type CollectionEntry, getCollection, render } from "astro:content";
 
 import Masthead from "@/components/blog/Masthead.astro";
 import TOC from "@/components/blog/TOC.astro";
 import WebMentions from "@/components/blog/webmentions/index.astro";
+import { getAllPosts } from "@/data/post";
+import { siteConfig } from "@/site.config";
 
 import BaseLayout from "./Base.astro";
 
@@ -12,17 +14,37 @@ interface Props {
 }
 
 const { post } = Astro.props;
-const { cover, title, description, updatedDate, publishDate } = post.data;
+const { cover, title, description, updatedDate, publishDate, lang, translation } = post.data;
 const socialImage = cover ?? `/og-image/${post.id}.png`;
 const articleDate = updatedDate?.toISOString() ?? publishDate.toISOString();
 const { headings, remarkPluginFrontmatter } = await render(post);
 const readingTime: string = remarkPluginFrontmatter.readingTime;
+
+// hreflang alternates: this post plus any post it names as its translation, or that names it
+if (translation && !(await getCollection("post")).some((p) => p.id === translation)) {
+	throw new Error(
+		`Post "${post.id}" has translation "${translation}", but no post with that slug exists`,
+	);
+}
+// drafts are filtered out in production, so an unpublished translation is skipped rather than linked
+const translations = (await getAllPosts()).filter(
+	(p) => p.id !== post.id && (p.id === translation || p.data.translation === post.id),
+);
+const versions = translations.length ? [post, ...translations] : [];
+const alternates = versions.map((p) => ({
+	hreflang: p.data.lang ?? siteConfig.lang,
+	href: new URL(`/posts/${p.id}/`, siteConfig.url).href,
+}));
+const defaultVersion = alternates.find((a) => a.hreflang.toLowerCase().startsWith("en"));
+if (defaultVersion) alternates.push({ hreflang: "x-default", href: defaultVersion.href });
 ---
 
 <BaseLayout
 	meta={{
 		articleDate,
+		alternates,
 		description,
+		lang,
 		ogImage: socialImage,
 		title,
 	}}

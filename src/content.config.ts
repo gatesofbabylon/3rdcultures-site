@@ -30,6 +30,11 @@ const post = defineCollection({
 			.optional()
 			.transform((str) => (str ? new Date(str) : undefined)),
 		pinned: z.boolean().default(false),
+		// lang: BCP 47 tag for this post e.g. "ja". Defaults to siteConfig.lang when absent
+		lang: z.string().optional(),
+		// translation: slug of the same post in another language e.g. "my-post-ja".
+		// Setting it on either post links both ways via hreflang alternates
+		translation: z.string().optional(),
 	}),
 });
 
