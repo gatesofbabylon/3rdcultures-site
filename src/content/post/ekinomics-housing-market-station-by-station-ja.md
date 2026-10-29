@@ -2,6 +2,7 @@
 cover: /images/posts/ekinomics-housing-market-station-by-station-ja/ekinomics-5-central-london-growth-ja.jpg
 description: Ekinomics を公開した。日本とイギリス47都市の住宅価格を、駅ごとに地図にした。首都圏の中央線から福岡、ロンドンまで、なぜ駅が大事な単位なのか。
 draft: false
+lang: ja
 publishDate: '2026-10-28'
 tags:
 - ekinomics
@@ -10,6 +11,7 @@ tags:
 - britain
 - transit-maps
 title: Ekinomics：日本とイギリスの住宅価格を、駅ごとに読む
+translation: ekinomics-housing-market-station-by-station
 ---
 
 *[Read this in English](https://3rdcultures.com/posts/ekinomics-housing-market-station-by-station/)*
