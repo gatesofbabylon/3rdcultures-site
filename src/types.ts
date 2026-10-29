@@ -22,6 +22,10 @@ export interface SiteMeta {
 	description?: string;
 	ogImage?: string | undefined;
 	title: string;
+	/** BCP 47 language of the page, defaults to siteConfig.lang */
+	lang?: string | undefined;
+	/** hreflang alternates for translated pages, including the page itself */
+	alternates?: { hreflang: string; href: string }[] | undefined;
 }
 
 /** Webmentions */
