@@ -6,11 +6,7 @@ description: Didn't expect a swords-and-sandals movie to get my mind racing on g
 draft: false
 letterboxd: ''
 publishDate: '2026-11-12'
-tags:
-- film
-- christopher-nolan
-- game-theory
-- globalisation
+tags: []
 title: Ratchets – on Christopher Nolan's "The Odyssey" (2026)
 ---
 
