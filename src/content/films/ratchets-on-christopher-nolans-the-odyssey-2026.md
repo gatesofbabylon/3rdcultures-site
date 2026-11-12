@@ -10,6 +10,8 @@ tags: []
 title: Ratchets – on Christopher Nolan's "The Odyssey" (2026)
 ---
 
+![](/images/films/ratchets-on-christopher-nolans-the-odyssey-2026/cover.gif)
+
 Didn't expect a swords-and-sandals movie to get my mind racing on game theory, Operation Spiderweb and irreversible impairment of the postwar economic order.
 
 And of course, Nolan had Oppenheimer in mind too: one-way doors. The exploit of a tactical advantage, whether a wooden horse or a bomb, as a ratchet that permanently degrades the equilibrium for everyone.
